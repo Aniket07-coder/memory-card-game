@@ -161,6 +161,8 @@ body{
     }
 
     .card-box{
+        height: 80px;width: 80px;
+        border-radius: 10px;
         font-size: 24px;
     }
 
