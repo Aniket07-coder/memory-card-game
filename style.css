@@ -161,9 +161,10 @@ body{
     }
 
     .card-box{
-        height: 80px;width: 80px;
-        border-radius: 10px;
-        font-size: 24px;
+        height: 90px;width: 90px;
+        border-radius: 12px;
+        font-size: 22px;
+        margin-bottom: 10px;
     }
 
     .game-header h1{
