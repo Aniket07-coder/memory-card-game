@@ -157,14 +157,14 @@ body{
 @media(max-width:480px){
     .game-board{
         grid-template-columns: repeat(4, 1fr);
-        gap: 20px;
+        gap: 25px;
     }
 
     .card-box{
-        height: 90px;width: 90px;
+        height: 85px;width: 85px;
         border-radius: 12px;
         font-size: 22px;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
 
     .game-header h1{
